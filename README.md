@@ -9,7 +9,9 @@ La tentative 1 a fonctionné, le pull VScode est validé !
 ## COnfig GIT Locale
 
 pour le nom d'user : git config --global user.name "username"
+
 pour le mail : git config --global user.email "nom@email"
+
 pour vérifier la bonne saisie et validation : git config --global --list
 
 ## Git Clone

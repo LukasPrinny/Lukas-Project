@@ -1,3 +1,7 @@
+# Bienvenue sur ce projet
+
+Il s'agit d'une tentative effectuée lors du cours J02-P01
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LukasPrinny/Lukas-Project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.

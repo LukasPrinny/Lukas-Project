@@ -22,3 +22,12 @@ permet de travailler en local
 ## Git Pull
 
 commande pour récuperer les mises à jour du projet distant sur la machine locale
+
+## Git Push
+
+commande pour mettre à jour sur le Git les modifications effectuées en local
+
+## Git add
+
+Dans VSCode, on peut ajouter une nouvelle version de fichier à la zone de surveillance en cliquant sur "+" dans la section "contrôle de code source"
+

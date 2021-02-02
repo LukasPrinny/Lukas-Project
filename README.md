@@ -31,3 +31,8 @@ commande pour mettre à jour sur le Git les modifications effectuées en local
 
 Dans VSCode, on peut ajouter une nouvelle version de fichier à la zone de surveillance en cliquant sur "+" dans la section "contrôle de code source"
 
+## Git commit
+
+Commande pour enregistrer dans l'historique une nouvelle version de l'application/du fichier.
+Dans VSCode, section "contrôle code source", zone de saisie pour indiquer le message de commit (message précis pour retrouver les versions du projet plus simplement
+)
